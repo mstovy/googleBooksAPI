@@ -1,1 +1,5 @@
-# googleBooksAPI
+# Group 2 Assignment Part 2
+ 
+  -For this part of the assignment, we followed all of the directions given to us in Dr. Jafarian's presentations. Artsiom set up the Github repo with everyone in the group, borrowed the code from the VueJS classwork, and began the assignment. Artsiom implemented the pagintation while Dax and Artsiom worked together to create the template for each book. Micah did the Vue.js research required to complete the assignment and found a way to use multpile keywords in a search and implemented that function on an extra page. Dax also implemented the API calls such as subtitles, rating counts, page counts, and descriptions of each of the books. 
+
+  -In order to make the webpage as symmetrical as possible, and to create a cohesive look, we chose to add a temporary thumbnail to all of the books from the google API that do not arrive with a thumbnail themselves. Artsiom used Adobe Photoshop to create a default picture placeholder and added text on it which said "no thumbnail," so no one would not think that it was the real cover of the book. By adding a temporary thumbnail, the website began to look much nicer and overall much more organized.

@@ -1,0 +1,28 @@
+.hasError{
+    color : red;
+}
+.differentColor{
+    color:#1d3a5f;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+.blocked{
+  pointer-events: none;
+   opacity: 0.3;
+
+}
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+.next {
+  background-color: #1d3a5f;
+  color: white;
+}
